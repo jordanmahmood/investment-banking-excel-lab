@@ -6,8 +6,8 @@ Build a public trading comps set the way an analyst would actually use it: peer 
 
 ## Files
 
-- `Information_Services_Trading_Comps_Blank.xlsx`
-- `Information_Services_Trading_Comps_Answer.xlsx`
+- In this module: `Information_Services_Trading_Comps_Blank.xlsx`
+- Answer key: `../../answer_keys/Information_Services_Trading_Comps_Answer.xlsx`
 
 ## Workbook Map
 

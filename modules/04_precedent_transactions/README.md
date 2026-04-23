@@ -6,8 +6,8 @@ Translate public M&A announcements into a banker-style precedent transactions ta
 
 ## Files
 
-- `Data_Workflow_Precedent_Transactions_Blank.xlsx`
-- `Data_Workflow_Precedent_Transactions_Answer.xlsx`
+- In this module: `Data_Workflow_Precedent_Transactions_Blank.xlsx`
+- Answer key: `../../answer_keys/Data_Workflow_Precedent_Transactions_Answer.xlsx`
 
 ## Workbook Map
 

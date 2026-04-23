@@ -6,10 +6,9 @@ Build a sponsor-style LBO model around Dun & Bradstreet's announced take-private
 
 ## Files
 
-- `DNB_LBO_Practice.xlsx`
-- `DNB_LBO_Answer.xlsx`
-- `DNB_LBO_Full_Practice.xlsx`
-- `DNB_LBO_Full_Answer.xlsx`
+- In this module: `DNB_LBO_Practice.xlsx`
+- In this module: `DNB_LBO_Full_Practice.xlsx`
+- Answer keys: `../../answer_keys/DNB_LBO_Answer.xlsx` and `../../answer_keys/DNB_LBO_Full_Answer.xlsx`
 
 Use the standard workbook pair for the primary build. Use the `_Full` pair if you want the extended workbook version with centralized assumptions, a fuller debt schedule, and a more detailed return bridge.
 

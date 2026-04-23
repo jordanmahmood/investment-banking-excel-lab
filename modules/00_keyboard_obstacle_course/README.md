@@ -6,8 +6,8 @@ In investment banking, Excel speed is a real job skill. Analysts who stay on the
 
 ## Files
 
-- `IB_Excel_Keyboard_Obstacle_Course_Practice.xlsx`
-- `IB_Excel_Keyboard_Obstacle_Course_Answer.xlsx`
+- In this module: `IB_Excel_Keyboard_Obstacle_Course_Practice.xlsx`
+- Answer key: `../../answer_keys/IB_Excel_Keyboard_Obstacle_Course_Answer.xlsx`
 
 ## What You Do
 

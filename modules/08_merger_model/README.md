@@ -6,8 +6,8 @@ Build a timed accretion / dilution model that mirrors a classic investment-banki
 
 ## Files
 
-- `SPGI_TRU_Merger_Model_Full_Practice.xlsx`
-- `SPGI_TRU_Merger_Model_Full_Answer.xlsx`
+- In this module: `SPGI_TRU_Merger_Model_Full_Practice.xlsx`
+- Answer key: `../../answer_keys/SPGI_TRU_Merger_Model_Full_Answer.xlsx`
 
 This module follows the extended workbook sequence after the LBO. The case is hypothetical and is meant to train merger-model mechanics rather than comment on a live strategic transaction.
 

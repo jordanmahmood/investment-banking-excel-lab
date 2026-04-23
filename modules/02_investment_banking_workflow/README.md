@@ -6,10 +6,9 @@ Learn how analysts actually structure a model: assumptions first, then statement
 
 ## Files
 
-- `TRU_Three_Statement_Workflow_Practice.xlsx`
-- `TRU_Three_Statement_Workflow_Answer.xlsx`
-- `TRU_Three_Statement_Workflow_Full_Practice.xlsx`
-- `TRU_Three_Statement_Workflow_Full_Answer.xlsx`
+- In this module: `TRU_Three_Statement_Workflow_Practice.xlsx`
+- In this module: `TRU_Three_Statement_Workflow_Full_Practice.xlsx`
+- Answer keys: `../../answer_keys/TRU_Three_Statement_Workflow_Answer.xlsx` and `../../answer_keys/TRU_Three_Statement_Workflow_Full_Answer.xlsx`
 
 Use the standard workbook pair for the primary build. Use the `_Full` pair if you want the extended workbook version with `CF`, `BS`, `Build_Map`, and a live balance check.
 

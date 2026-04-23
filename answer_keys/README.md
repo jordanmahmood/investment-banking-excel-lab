@@ -1,6 +1,6 @@
 # Answer Keys
 
-The `answer_keys/` folder is a convenience mirror of the completed learner-facing answer workbooks.
+The `answer_keys/` folder is the canonical location for the completed learner-facing answer workbooks.
 
 ## Included Files
 
@@ -16,4 +16,4 @@ The `answer_keys/` folder is a convenience mirror of the completed learner-facin
 - `DNB_LBO_Full_Answer.xlsx`
 - `SPGI_TRU_Merger_Model_Full_Answer.xlsx`
 
-Use the module folders for the full learning context, instructions, and practice expectations. Use `answer_keys/` only when you want a direct jump into the completed workbook.
+Use the module folders for the full learning context, instructions, and practice expectations. Use `answer_keys/` when you need the completed workbook for review, comparison, or debugging.

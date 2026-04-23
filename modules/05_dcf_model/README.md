@@ -6,10 +6,9 @@ Build a usable discounted cash flow model from real historicals, management guid
 
 ## Files
 
-- `TRU_DCF_Practice.xlsx`
-- `TRU_DCF_Answer.xlsx`
-- `TRU_DCF_Full_Practice.xlsx`
-- `TRU_DCF_Full_Answer.xlsx`
+- In this module: `TRU_DCF_Practice.xlsx`
+- In this module: `TRU_DCF_Full_Practice.xlsx`
+- Answer keys: `../../answer_keys/TRU_DCF_Answer.xlsx` and `../../answer_keys/TRU_DCF_Full_Answer.xlsx`
 
 Use the standard workbook pair for the primary build. Use the `_Full` pair if you want the extended workbook version with a dedicated `WACC` bridge, a terminal-value comparison tab, and football-field support.
 

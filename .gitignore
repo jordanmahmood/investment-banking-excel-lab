@@ -5,6 +5,9 @@ requirements.txt
 data/raw/
 data/processed/
 
+# Answer keys live only in answer_keys/
+modules/**/*_Answer.xlsx
+
 # Python cache
 **/__pycache__/
 *.pyc

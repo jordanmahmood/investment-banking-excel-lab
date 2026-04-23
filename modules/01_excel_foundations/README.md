@@ -6,8 +6,8 @@ Build spreadsheet fluency using real finance data, not toy examples. This module
 
 ## Files
 
-- `Excel_Foundations_Practice.xlsx`
-- `Excel_Foundations_Answer.xlsx`
+- In this module: `Excel_Foundations_Practice.xlsx`
+- Answer key: `../../answer_keys/Excel_Foundations_Answer.xlsx`
 
 ## Workbook Map
 

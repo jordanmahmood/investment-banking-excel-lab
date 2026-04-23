@@ -1,6 +1,6 @@
 # investment-banking-excel-lab
 
-Keyboard-first Excel and valuation training for investment-banking recruiting. The learner-facing repo is meant to be used directly in Excel: open the module README, complete the practice workbook, then audit against the answer file.
+Keyboard-first Excel and valuation training for investment-banking recruiting. The learner-facing repo is meant to be used directly in Excel: open the module README, complete the practice workbook, then audit against the matching file in `answer_keys/`.
 
 ## Course Format
 
@@ -44,41 +44,41 @@ The valuation cases are intentionally frozen to a consistent market backdrop:
 
 | Module | Focus | Deliverables |
 | --- | --- | --- |
-| `00_keyboard_obstacle_course` | keyboard-only navigation, edit, fill, and formatting drills | practice and answer obstacle-course workbooks |
-| `01_excel_foundations` | lookup logic, formula speed, banker formatting, charting | practice and answer workbooks |
-| `02_investment_banking_workflow` | workbook architecture, driver discipline, statements, schedules, checks | standard and extended 3-statement workflow workbooks |
-| `03_comparable_companies` | peer selection, EV bridge, multiples, implied valuation output | guided comps workbook and answer workbook |
-| `04_precedent_transactions` | deal screening, premium basis, implied EV, relevance scoring | guided precedents workbook and answer workbook |
-| `05_dcf_model` | historicals, forecast drivers, WACC, UFCF, terminal value, sensitivities | standard and extended DCF workbooks |
-| `06_lbo_model` | sources and uses, debt schedule, cash sweep, returns, sensitivities | standard and extended LBO workbooks |
+| `00_keyboard_obstacle_course` | keyboard-only navigation, edit, fill, and formatting drills | practice workbook plus matching answer key |
+| `01_excel_foundations` | lookup logic, formula speed, banker formatting, charting | practice workbook plus matching answer key |
+| `02_investment_banking_workflow` | workbook architecture, driver discipline, statements, schedules, checks | standard and extended practice workbooks plus matching answer keys |
+| `03_comparable_companies` | peer selection, EV bridge, multiples, implied valuation output | guided practice workbook plus matching answer key |
+| `04_precedent_transactions` | deal screening, premium basis, implied EV, relevance scoring | guided practice workbook plus matching answer key |
+| `05_dcf_model` | historicals, forecast drivers, WACC, UFCF, terminal value, sensitivities | standard and extended practice workbooks plus matching answer keys |
+| `06_lbo_model` | sources and uses, debt schedule, cash sweep, returns, sensitivities | standard and extended practice workbooks plus matching answer keys |
 | `07_vba_automation` | formatting cleanup, schedule duplication, sensitivities, audit macros, chart export | demo workbook and reusable `.bas` modules |
 | `08_merger_model` | accretion / dilution, consideration mix, financing drag, synergy framing | merger-model capstone workbook |
 
 ## Deliverables
 
 - `modules/00_keyboard_obstacle_course/IB_Excel_Keyboard_Obstacle_Course_Practice.xlsx`
-- `modules/00_keyboard_obstacle_course/IB_Excel_Keyboard_Obstacle_Course_Answer.xlsx`
 - `modules/01_excel_foundations/Excel_Foundations_Practice.xlsx`
-- `modules/01_excel_foundations/Excel_Foundations_Answer.xlsx`
 - `modules/02_investment_banking_workflow/TRU_Three_Statement_Workflow_Practice.xlsx`
-- `modules/02_investment_banking_workflow/TRU_Three_Statement_Workflow_Answer.xlsx`
 - `modules/02_investment_banking_workflow/TRU_Three_Statement_Workflow_Full_Practice.xlsx`
-- `modules/02_investment_banking_workflow/TRU_Three_Statement_Workflow_Full_Answer.xlsx`
 - `modules/03_comparable_companies/Information_Services_Trading_Comps_Blank.xlsx`
-- `modules/03_comparable_companies/Information_Services_Trading_Comps_Answer.xlsx`
 - `modules/04_precedent_transactions/Data_Workflow_Precedent_Transactions_Blank.xlsx`
-- `modules/04_precedent_transactions/Data_Workflow_Precedent_Transactions_Answer.xlsx`
 - `modules/05_dcf_model/TRU_DCF_Practice.xlsx`
-- `modules/05_dcf_model/TRU_DCF_Answer.xlsx`
 - `modules/05_dcf_model/TRU_DCF_Full_Practice.xlsx`
-- `modules/05_dcf_model/TRU_DCF_Full_Answer.xlsx`
 - `modules/06_lbo_model/DNB_LBO_Practice.xlsx`
-- `modules/06_lbo_model/DNB_LBO_Answer.xlsx`
 - `modules/06_lbo_model/DNB_LBO_Full_Practice.xlsx`
-- `modules/06_lbo_model/DNB_LBO_Full_Answer.xlsx`
 - `modules/07_vba_automation/Banker_Productivity_Macro_Demo.xlsx`
 - `modules/08_merger_model/SPGI_TRU_Merger_Model_Full_Practice.xlsx`
-- `modules/08_merger_model/SPGI_TRU_Merger_Model_Full_Answer.xlsx`
+- `answer_keys/IB_Excel_Keyboard_Obstacle_Course_Answer.xlsx`
+- `answer_keys/Excel_Foundations_Answer.xlsx`
+- `answer_keys/TRU_Three_Statement_Workflow_Answer.xlsx`
+- `answer_keys/TRU_Three_Statement_Workflow_Full_Answer.xlsx`
+- `answer_keys/Information_Services_Trading_Comps_Answer.xlsx`
+- `answer_keys/Data_Workflow_Precedent_Transactions_Answer.xlsx`
+- `answer_keys/TRU_DCF_Answer.xlsx`
+- `answer_keys/TRU_DCF_Full_Answer.xlsx`
+- `answer_keys/DNB_LBO_Answer.xlsx`
+- `answer_keys/DNB_LBO_Full_Answer.xlsx`
+- `answer_keys/SPGI_TRU_Merger_Model_Full_Answer.xlsx`
 - `templates/IB_Model_Shell_Template.xlsx`
 - `vba/modFormatCleanup.bas`
 - `vba/modSensitivityTables.bas`
@@ -89,7 +89,7 @@ The valuation cases are intentionally frozen to a consistent market backdrop:
 ## How To Use The Repo
 
 1. Start with the module README.
-2. Open the practice workbook first and stay out of the answer file until you are finished or stuck.
+2. Open the practice workbook first and stay out of the matching file in `answer_keys/` until you are finished or stuck.
 3. Use the `Checks` sheet after each lab block, not only at the end.
 4. Read `Source_Notes` before changing assumptions or citing numbers in an interview.
 5. Keep the mouse off the desk in module `00`; that expectation carries through the rest of the course.
