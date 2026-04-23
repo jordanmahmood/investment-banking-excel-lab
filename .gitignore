@@ -1,0 +1,17 @@
+# Non-course build and source files
+artifacts/
+scripts/
+requirements.txt
+data/raw/
+data/processed/
+
+# Python cache
+**/__pycache__/
+*.pyc
+
+# Local Excel and OS artifacts
+~$*.xlsx
+*.tmp
+chart_exports/
+.DS_Store
+Thumbs.db
